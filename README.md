@@ -1,0 +1,2 @@
+otvori file
+uzivaj
